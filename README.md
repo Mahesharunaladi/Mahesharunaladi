@@ -1,6 +1,6 @@
 HEY THERE ✌️
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning<br>
+I'm a passionate developer who believes in the power of clean code and elegant design. Like a samurai masters their craft through discipline and focus, I approach every project with dedication and attention to detail.With expertise in modern web technologies, I build responsive and user-friendly applications that solve real-world problems
 
 
 ## 🌐 Socials:
