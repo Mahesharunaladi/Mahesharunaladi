@@ -1,7 +1,7 @@
 ## Hey there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝🌱 I’m currently learning<br>💬
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝🌱 I’m currently learning<br>
 
 
 ## 🌐 Socials:
