@@ -23,4 +23,4 @@
 <a href="https://twitter.com/priyanshu5ingh5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyanshu5ingh5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/priyanshu5ingh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanshu5ingh/" height="30" width="40" /></a>
 <a href="https://instagram.com/priyanshu5ingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshu5ingh" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pre_b_1341" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons
+<a href="https://www.codechef.com/users/pre_b_1341" target="blank">
