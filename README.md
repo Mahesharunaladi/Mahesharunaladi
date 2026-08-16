@@ -2,13 +2,13 @@
 
 Enthusiastic DevOps & Backend Developer passionate about building scalable, automated, and reliable systems. I have a strong foundation in HTML, Tailwind CSS, and Java, along with hands-on experience in AWS Cloud (Certified Cloud Practitioner). I enjoy bridging development and operations by writing clean backend code and automating infrastructure. Currently, I'm completing my DevOps certification while working on a personal project that automates infrastructure provisioning using Terraform. I'm actively deepening my expertise in cloud technologies, CI/CD pipelines, containerization, and infrastructure as code. I thrive in collaborative environments and am always eager to contribute, learn, and grow. Looking for opportunities where I can apply my skills to real-world DevOps projects and deliver meaningful impact.
 
-## 🚀 Languages and Tools I Use
+##  Languages and Tools I Use
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,py,js,html,css,spring,nodejs,express,react,git,github,docker,jenkins,githubactions,aws,mysql,postgres,mongodb,postman,maven,linux" alt="Languages and Tools" />
 </p>
 
-## ⚡ Where to find me
+##  Where to find me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mahesharunaladi/" target="_blank">
