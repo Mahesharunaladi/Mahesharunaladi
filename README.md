@@ -11,7 +11,7 @@ Enthusiastic DevOps & Backend Developer passionate about building scalable, auto
 ## 📊 Most Used Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesharunaladi&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesharunaladi&layout=compact&theme=tokyonight&hide_border=true)username=Mahesharunaladi&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ## ⚡ Where to find me
